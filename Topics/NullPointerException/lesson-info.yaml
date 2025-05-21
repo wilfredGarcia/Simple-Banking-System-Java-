@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - Unknown input
+  - Lines that may throw NPE
+  - Avoid NPE
+  - Return empty string when argument is null
+  - Print string multiple times based on input

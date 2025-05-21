@@ -1,0 +1,21 @@
+content:
+  - NullPointerException
+  - Comparing values. Relational operators
+  - Method overriding
+  - Command-line arguments
+  - Polymorphism
+  - For loop
+  - Multiple conditions  switch
+  - Arrays as parameters
+  - Defining classes
+  - Static members
+  - Declaring functionality with interfaces
+  - Anonymous class
+  - While and do-while loops
+  - Default methods
+  - Abstract class
+  - Break and continue. Branching
+  - Declaring methods
+  - Retrieving Class instances
+  - Inheritance
+  - Keyword  super
